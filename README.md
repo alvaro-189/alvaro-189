@@ -1,4 +1,7 @@
 ### Hi there 👋
+ 🌱 I’m currently learning Software Development at the Technologic University of Aguascalientes
+
+🔭 I’m currently working on IT-SEEKERS as Full Stack Developer in .Net C#
 
 <!--
 **alvaro-189/alvaro-189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
